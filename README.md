@@ -9,7 +9,7 @@ Run Specsy on any PC to see its hardware and Windows details at a glance, then s
 
 ## Download
 
-Download **[Specsy.exe](https://github.com/XMTLXY/Specsy/releases/latest/download/Specsy.exe)** (latest release) and run it. That's all.
+Download **[Specsy.zip](https://github.com/XMTLXY/Specsy/releases/latest/download/Specsy.zip)** (latest release), unzip it and run `Specsy.exe`. That's all.
 
 All versions are on the [Releases page](https://github.com/XMTLXY/Specsy/releases).
 
