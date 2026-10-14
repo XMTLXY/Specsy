@@ -1,2 +1,5 @@
 # Saved devices (created when Specsy runs from this folder)
 Device List/
+
+# The release download (attach it to the GitHub Release instead of committing it)
+Specsy.zip

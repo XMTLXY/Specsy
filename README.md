@@ -13,6 +13,16 @@ Download **[Specsy.zip](https://github.com/XMTLXY/Specsy/releases/latest/downloa
 
 All versions are on the [Releases page](https://github.com/XMTLXY/Specsy/releases).
 
+### v1.0.1 pre-release (experimental)
+
+A test version is available on the [Releases page](https://github.com/XMTLXY/Specsy/releases) (marked *Pre-release*; the download above stays on the stable version). It adds:
+- **Drivers tab**: every device and its driver, Device Manager-style, with problem devices flagged
+- **Driver tools (experimental)**: install a driver from an .inf or a folder, find which device an .inf is for, and an **Install Queue** that runs driver installers one after another
+- **Better CPU detection on Windows XP** (correct names and core counts for newer CPUs)
+- **A portable folder layout**: `Specsy.exe` (launcher), `App\` (program files), `Drivers\` and `Device List\`
+
+Driver installation is experimental. Test it on a machine you can restore first.
+
 ## Features
 
 **About**: a "View basic information about your computer"-style summary.
